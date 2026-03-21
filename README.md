@@ -46,6 +46,18 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+<img width="576" height="625" alt="image" src="https://github.com/user-attachments/assets/66235f19-0f10-47c0-b40e-39b706c69c6c" />
+
+<img width="367" height="720" alt="image" src="https://github.com/user-attachments/assets/4e6688a5-f92a-44d6-8470-ada3f7309c88" />
+
+<img width="388" height="408" alt="image" src="https://github.com/user-attachments/assets/e8e28cf2-8f85-4fff-b297-c1ac229f9410" />
+
+<img width="367" height="775" alt="image" src="https://github.com/user-attachments/assets/0ddcc406-54d6-439a-bb2d-9305702ecf06" />
+
+<img width="372" height="404" alt="image" src="https://github.com/user-attachments/assets/d98cdcb1-0a8c-46ce-b431-aede90efc314" />
+
+<img width="378" height="754" alt="image" src="https://github.com/user-attachments/assets/29350798-038e-43b5-86a8-8c7db1a7bbe3" />
+
 
 ### Name: LOGESH R
 ### Register Number: 2122225040203
